@@ -12,4 +12,6 @@ var (
 	ResourceRefreshSchedule     = newResourceRefreshSchedule
 	ResourceTemplateAlias       = newResourceTemplateAlias
 	ResourceVPCConnection       = newResourceVPCConnection
+
+	StartAfterDateTimeLayout = startAfterDateTimeLayout
 )
